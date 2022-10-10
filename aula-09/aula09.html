@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 09 - Eventos</title>
+    
+</head>
+<body>
+
+    <div class="conteudo">
+        <h1>Calculando Valores</h1>
+        <label for="txtn1">Numero 1:</label>
+        <input type="number" name="txtn1" id="txtn1"><br><br>
+        
+        
+        <label for="operacao">Operação:  </label>
+        <select name="operacao" id="operacao">
+            <option value="somar">+</option>
+            <option value="subtrair">-</option>
+            <option value="multiplicar">*</option>
+            <option value="dividir">/</option>
+        </select><br><br>
+
+        <label for="txtn2">Numero 2:</label>
+        <input type="number" name="txtn2" id="txtn2"><br><br>
+
+        <input type="button" value="Somar" onclick="calcular()"><br>
+
+        <div id="res"></div>
+
+    </div>
+
+  
+
+    <script src="script-aula-09.js"></script>
+</body>
+</html>

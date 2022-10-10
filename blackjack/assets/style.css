@@ -1,0 +1,143 @@
+body {
+    
+    color: white;
+    background: url(./image/chao.jpg);
+    
+}
+.mesa {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80vh;
+    flex-direction: column;
+    background: url(./image/bg-verde.jpg);
+    padding: 30px;
+    background-size: contain;
+    margin: 50px;
+    border-radius: 35%;
+    border: #63462D 10px solid;
+    overflow: hidden;
+}
+
+#btnRegras{
+    position: fixed;
+    top: 5px;
+    right: 10px;
+    padding: 5px 10px;
+}
+.regras{
+    height: 200px;
+    overflow: scroll;
+    overflow-x: hidden;
+    border: #ccc 1px solid;
+}
+
+.regras h3{
+    font-size: 25px;
+}
+
+.regras p{
+    text-align: justify;
+    font-size: 18px;
+    margin: 5px 15px;
+}
+
+.regras ul li{
+    text-align: left;
+    margin-bottom: 5px;
+}
+
+button {
+    background: #1a1a1a;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.botoes-jogador {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+#btnParar{
+    background-color: red;
+}
+
+#btnPedir{
+    background-color: green;
+}
+
+#btnIniciar{
+    background-color: blue;
+}
+
+#pontos-jogador {
+    font-size: 20px;
+    text-align: center;
+}
+
+#pontos-computador {
+    font-size: 20px;
+    text-align: center;
+}
+
+#cartas-jogador img{
+    width: 100px;
+    height: 150px;
+    margin: 0 5px;
+}
+
+#cartas-computador img{
+    width: 100px;
+    height: 150px;
+    margin: 0 5px;
+}
+
+.btn-regras{
+    padding: 1px 5px;
+    border-width: 1px 2px 2px 1px;
+    border-style: solid;
+    color: #000;
+    border-color: #d9d9d9 #999 #999 #d9d9d9;
+    border-radius: 3px;
+}
+
+@media screen and (max-width: 426px) {
+    .mesa {
+        margin: 10px;
+    }
+
+    #cartas-computador img{
+        width: 75px;
+        height: 110px;
+        margin: 0 5px;
+    }
+    #cartas-jogador img{
+        width: 75px;
+        height: 110px;
+        margin: 0 5px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    .mesa {
+        margin: 10px;
+    }
+
+    #cartas-computador img{
+        width: 55px;
+        height: 90px;
+        margin: 0 5px;
+    }
+    #cartas-jogador img{
+        width: 55px;
+        height: 90px;
+        margin: 0 5px;
+    }
+}
+    

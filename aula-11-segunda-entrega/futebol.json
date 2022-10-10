@@ -1,0 +1,248 @@
+[
+    {
+       "campeonato":"Copa do Brasil",
+       "object":[
+          {
+             "partida_id":423,
+             "campeonato":{
+                "campeonato_id":2,
+                "nome":"Copa do Brasil",
+                "slug":"copa-do-brasil"
+             },
+             "placar":"Santo André 4x1 Criciúma",
+             "time_mandante":{
+                "time_id":62,
+                "nome_popular":"Santo André",
+                "sigla":"STA",
+                "escudo":"https://logodownload.org/wp-content/uploads/2020/01/ec-santo-andre-logo-1.png"
+             },
+             "time_visitante":{
+                "time_id":1,
+                "nome_popular":"Criciúma",
+                "sigla":"CRI",
+                "escudo":"https://logodownload.org/wp-content/uploads/2017/02/Criciuma-logo-escudo.png"
+             },
+             "placar_mandante":4, 
+             "placar_visitante":1,
+             "status":"andamento",
+             "slug":"santo-andre-criciuma-05-02-2020",
+             "data_realizacao":"05/02/2020",
+             "hora_realizacao":"16:30",
+             "data_realizacao_iso":"2020-02-05T16:30:00-0300",
+             "estadio":{
+                "estadio_id":72,
+                "nome_popular":"Bruno José Daniel"
+             },
+             "_link":"/v1/partidas/423"
+          },
+          {
+             "partida_id":424,
+             "campeonato":{
+                "campeonato_id":2,
+                "nome":"Copa do Brasil",
+                "slug":"copa-do-brasil"
+             },
+             "placar":"Internacional 1x0 Tolima",
+             "time_mandante":{
+                "time_id":44,
+                "nome_popular":"Internacional",
+                "sigla":"INT",
+                "escudo":"https://logodownload.org/wp-content/uploads/2015/05/internacional-porto-alegre-logo-escudo-4.png"
+             },
+             "time_visitante":{
+                "time_id":179,
+                "nome_popular":"Tolima",
+                "sigla":"TLM",
+                "escudo":"https://logodownload.org/wp-content/uploads/2019/04/tolima-logo-escudo-2.png"
+             },
+             "placar_mandante":4,
+             "placar_visitante":1,
+             "status":"andamento",
+             "slug":"santo-andre-criciuma-05-02-2020",
+             "data_realizacao":"05/02/2020",
+             "hora_realizacao":"16:30",
+             "data_realizacao_iso":"2020-02-05T16:30:00-0300",
+             "estadio":{
+                "estadio_id":72,
+                "nome_popular":"Bruno José Daniel"
+             },
+             "_link":"/v1/partidas/423"
+          },
+          {
+             "partida_id":425,
+             "campeonato":{
+                "campeonato_id":2,
+                "nome":"Copa do Brasil",
+                "slug":"copa-do-brasil"
+             },
+             "placar":"Bragantino 2x1 Palmeiras",
+             "time_mandante":{
+                "time_id":64,
+                "nome_popular":"Bragantino",
+                "sigla":"BGT",
+                "escudo":"https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/1200px-Red_Bull_Bragantino_logo.svg.png"
+             },
+             "time_visitante":{
+                "time_id":56,
+                "nome_popular":"Palmeiras",
+                "sigla":"PAL",
+                "escudo":"https://seeklogo.com/images/S/Sociedade_Esportiva_Palmeiras_de_Sao_Paulo-SP-logo-BE3E91E989-seeklogo.com.png"
+             },
+             "placar_mandante":4,
+             "placar_visitante":1,
+             "status":"agendada",
+             "slug":"santo-andre-criciuma-05-02-2020",
+             "data_realizacao":"05/02/2020",
+             "hora_realizacao":"16:30",
+             "data_realizacao_iso":"2020-02-05T16:30:00-0300",
+             "estadio":{
+                "estadio_id":72,
+                "nome_popular":"Bruno José Daniel"
+             },
+             "_link":"/v1/partidas/423"
+          }
+       ]
+    },
+    {
+       "campeonato":"Copa Libertadores da América",
+       "object":[
+          {
+             "partida_id":542,
+             "campeonato":{
+                "campeonato_id":7,
+                "nome":"Copa Libertadores da América",
+                "slug":"copa-libertadores-da-america"
+             },
+             "placar":"Internacional 1x0 Tolima",
+             "time_mandante":{
+                "time_id":44,
+                "nome_popular":"Internacional",
+                "sigla":"INT",
+                "escudo":"https://logodownload.org/wp-content/uploads/2015/05/internacional-porto-alegre-logo-escudo-4.png"
+             },
+             "time_visitante":{
+                "time_id":179,
+                "nome_popular":"Tolima",
+                "sigla":"TLM",
+                "escudo":"https://logodownload.org/wp-content/uploads/2019/04/tolima-logo-escudo-2.png"
+             },
+             "placar_mandante":1,
+             "placar_visitante":0,
+             "status":"andamento",
+             "slug":"internacional-tolima-27-02-2020",
+             "data_realizacao":"26/02/2020",
+             "hora_realizacao":"21:30",
+             "data_realizacao_iso":"2020-02-26T21:30:00-0300",
+             "estadio":{
+                "estadio_id":53,
+                "nome_popular":"Beira-Rio"
+             },
+             "_link":"/v1/partidas/542"
+          },
+          {
+            "partida_id":1042,
+            "campeonato":{
+               "campeonato_id":7,
+               "nome":"Copa Libertadores da América",
+               "slug":"copa-libertadores-da-america"
+            },
+            "placar":"Sâo Paulo 1x0 Corinthians",
+            "time_mandante":{
+               "time_id":90,
+               "nome_popular":"Sâo Paulo",
+               "sigla":"SPO",
+               "escudo":"https://logodownload.org/wp-content/uploads/2016/09/sao-paulo-logo-escudo-1.png"
+            },
+            "time_visitante":{
+               "time_id":150,
+               "nome_popular":"Corinthians",
+               "sigla":"TLM",
+               "escudo":"https://seeklogo.com/images/S/SC_Corinthians_Paulista-logo-FD7F7C1165-seeklogo.com.png"
+            },
+            "placar_mandante":1,
+            "placar_visitante":0,
+            "status":"andamento",
+            "slug":"sao-paulo-corinthians-27-02-2020",
+            "data_realizacao":"26/02/2020",
+            "hora_realizacao":"21:30",
+            "data_realizacao_iso":"2020-02-26T21:30:00-0300",
+            "estadio":{
+               "estadio_id":53,
+               "nome_popular":"Beira-Rio"
+            },
+            "_link":"/v1/partidas/542"
+         }
+       ]
+    },
+    {
+       "campeonato":"Campeonato Paulista",
+       "object":[
+          {
+             "partida_id":320,
+             "campeonato":{
+                "campeonato_id":9,
+                "nome":"Campeonato Paulista",
+                "slug":"campeonato-paulista"
+             },
+             "placar":"Bragantino 2x1 Palmeiras",
+             "time_mandante":{
+                "time_id":64,
+                "nome_popular":"Bragantino",
+                "sigla":"BGT",
+                "escudo":"https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/1200px-Red_Bull_Bragantino_logo.svg.png"
+             },
+             "time_visitante":{
+                "time_id":56,
+                "nome_popular":"Palmeiras",
+                "sigla":"PAL",
+                "escudo":"https://seeklogo.com/images/S/Sociedade_Esportiva_Palmeiras_de_Sao_Paulo-SP-logo-BE3E91E989-seeklogo.com.png"
+             },
+             "placar_mandante":2,
+             "placar_visitante":1,
+             "status":"andamento",
+             "slug":"bragantino-palmeiras-02-02-2020",
+             "data_realizacao":"02/02/2020",
+             "hora_realizacao":"16:00",
+             "data_realizacao_iso":"2020-02-02T16:00:00-0300",
+             "estadio":{
+                "estadio_id":73,
+                "nome_popular":"Nabi Abi Chedid"
+             },
+             "_link":"/v1/partidas/320"
+          },
+          {
+            "partida_id":2042,
+            "campeonato":{
+               "campeonato_id":7,
+               "nome":"Copa Libertadores da América",
+               "slug":"copa-libertadores-da-america"
+            },
+            "placar":"Sâo Paulo 1x0 Corinthians",
+            "time_mandante":{
+               "time_id":90,
+               "nome_popular":"Sâo Paulo",
+               "sigla":"SPO",
+               "escudo":"https://logodownload.org/wp-content/uploads/2016/09/sao-paulo-logo-escudo-1.png"
+            },
+            "time_visitante":{
+               "time_id":150,
+               "nome_popular":"Corinthians",
+               "sigla":"TLM",
+               "escudo":"https://seeklogo.com/images/S/SC_Corinthians_Paulista-logo-FD7F7C1165-seeklogo.com.png"
+            },
+            "placar_mandante":1,
+            "placar_visitante":0,
+            "status":"andamento",
+            "slug":"sao-paulo-corinthians-27-02-2020",
+            "data_realizacao":"26/02/2020",
+            "hora_realizacao":"21:30",
+            "data_realizacao_iso":"2020-02-26T21:30:00-0300",
+            "estadio":{
+               "estadio_id":53,
+               "nome_popular":"Beira-Rio"
+            },
+            "_link":"/v1/partidas/542"
+         }
+       ]
+    }
+ ]

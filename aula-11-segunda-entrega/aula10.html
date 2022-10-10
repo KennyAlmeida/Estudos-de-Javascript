@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 10 - Segunda entrega</title>
+    <link rel="stylesheet" href="./assets/style.css">
+
+
+</head>
+<body>
+
+    <div class="futebolAoVivo">
+        <div class="container-campeonato">
+        <div>
+            <h3>SELECIONE CAMPEONATO</h3>
+        </div>
+        <div class="container-select">
+            <span class="span-ao-vivo"></span>
+            <select id="campeonatos" onchange="recebaTimes()"></select>
+        </div>
+        </div>
+        <div id="container-times"></div>
+        <div class="container-alerta">
+        <label class="switch">
+            <span class="switch-text"> Aviso de Gols </span>
+            <div class="switch-wapper">
+            <input type="checkbox" />
+            <span class="switch-button"></span>
+            </div>
+        </label>
+        </div>
+    </div>
+
+  
+
+    <script src="./assets/script-aula-10.js"></script>
+</body>
+</html>
